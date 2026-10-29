@@ -1,0 +1,8 @@
+{
+  "name": "@repro/app",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@repro/model": "workspace:*"
+  }
+}
